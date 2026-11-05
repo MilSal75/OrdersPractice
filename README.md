@@ -3,6 +3,8 @@
 Учебное приложение «Заказы». В нём несколько классов, и ваша задача — покрыть их unit-тестами.
 Один тест уже написан (`OrderTests.Total_TwoItems_ReturnsSum`), остальные пишете вы по его образцу.
 
+[![build and test](https://github.com/MilSal75/OrdersPractice/actions/workflows/ci.yml/badge.svg)](https://github.com/MilSal75/OrdersPractice/actions/workflows/ci.yml)
+
 ## 1. Что нужно установить
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
